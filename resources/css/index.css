@@ -18,6 +18,8 @@ h2{
     text-align: center;
 }
 
+
+
 h5{
 	color: aquamarine;
 	text-align: center;
@@ -43,4 +45,9 @@ img.tent{
    margin-left: auto;
    margin-right: auto;
    text-align: center;
+}
+
+video{
+   display: block;
+   margin: 0 auto;
 }
